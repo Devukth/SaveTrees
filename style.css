@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(violet, blueviolet, blue);
+} #firstp {
+  word-spacing: 10px;
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 60px;
+  font-family: georgia;
+} #secondp {
+  word-spacing: 10px;
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 40px;
+  font-family: georgia;
+} #reasonp {
+  word-spacing: 10px;
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 30px;
+  font-family: georgia;
+} img {
+  border-style:solid;
+  border-color:#689F38
+  border: 1px 
+  border-radius: 80px;
+  padding: 5px;
+  width: 450px;
+}
